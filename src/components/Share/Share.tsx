@@ -16,7 +16,7 @@ import {
   RedditShareButton,
 } from "react-share"
 
-import "./Share.scss"
+import "./share.scss"
 
 const Share = ({ socialConfig, tags }) => (
   <>
