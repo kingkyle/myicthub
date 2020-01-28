@@ -1,0 +1,49 @@
+// Small devices (landscape phones, 576px and up)
+
+// Medium devices (tablets, 768px and up)
+@media (max-width: 768px) {
+  .main-container {
+    width: auto;
+  }
+  main {
+    .slider-main {
+      display: flex;
+      flex-direction: column;
+      .slide-image {
+        width: auto;
+        filter: brightness(0.4);
+      }
+      .text-info {
+        position: absolute;
+        background-color: none;
+        color: white;
+
+        .arrows {
+          img {
+            background-color: white;
+            border-radius: 50%;
+          }
+        }
+      }
+    }
+    .index-col {
+      grid-template-columns: auto;
+      .posts-area {
+        .post-card {
+          background-color: white;
+          .post-image {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+}
