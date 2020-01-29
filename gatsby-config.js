@@ -6,11 +6,13 @@ module.exports = {
     author: `@MyICTHub`,
     twitterHandle: "@MyICTHub",
     url: "https://myicthub.net",
+    siteUrl: "https://myicthub.net",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-typescript`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
