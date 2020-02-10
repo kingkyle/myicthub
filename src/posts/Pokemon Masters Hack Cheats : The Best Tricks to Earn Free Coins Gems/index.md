@@ -89,17 +89,19 @@ But how to get the coins in Pokemon Masters is many gamers question. At this ear
 
 # A Few Additional Tips For Beginners
 
-- ## To Increase Your Move Gauge Save Coins
-  As you increase the coin income you need to know what the best purchase in Pokemon masters is so that your earned coins can be used at its best. Although many gamers believe that evolution packages are best shot to use coins first; but my Pokemon Masters cheats are a bit different.
+## - To Increase Your Move Gauge Save Coins
+
+As you increase the coin income you need to know what the best purchase in Pokemon masters is so that your earned coins can be used at its best. Although many gamers believe that evolution packages are best shot to use coins first; but my Pokemon Masters cheats are a bit different.
 
 In real battle you require move slots to use the special skills. So the first thing you need to use is to save enough coins to buy available move slots and use them perfectly in the battle.
 
-- ## Take Advantage of AI Gameplay
+## - Take Advantage of AI Gameplay
 
 While playing the 3v3 battle the AI always attack your most defensive player. It keeps your striker out of the heat and you can use this as an advantage while choosing your team. Make various combination with the defence and attack from the other end to hit the opponent and rundown your opponent. Use these Pokemon Masters cheats while AI is busy attacking your defence Pokemon.
 
-- ## Stay Away From Auto Battle
-  Auto battle is sometimes a time saver in the game but it is highly not that is to be adopted at the early stage. In auto mode the AI uses your highest powered move first against your opponent. While at the start you can win battles with your normal moves.
+## - Stay Away From Auto Battle
+
+Auto battle is sometimes a time saver in the game but it is highly not that is to be adopted at the early stage. In auto mode the AI uses your highest powered move first against your opponent. While at the start you can win battles with your normal moves.
 
 This Pokemon Masters hack may be a good game changer for your Pokemon at the start of game. But once you are highly levelled up and have a balanced team you can go for the auto play.
 
