@@ -66,6 +66,7 @@ const Share = ({ socialConfig, tags }) => (
         url={socialConfig.config.url}
         className="button is-outlined is-rounded whatsapp"
         title={socialConfig.config.title}
+        separator=" "
       >
         <span className="icon">
           <FontAwesomeIcon icon={faWhatsapp} />
