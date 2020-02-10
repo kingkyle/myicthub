@@ -33,7 +33,7 @@ const Share = ({ socialConfig, tags }) => (
       <TwitterShareButton
         url={socialConfig.config.url}
         className="button is-outlined is-rounded twitter"
-        title={socialConfig.config.title}
+        title={socialConfig.title}
         via={socialConfig.twitterHandle.split("@").join("")}
         hashtags={tags}
       >
@@ -45,7 +45,7 @@ const Share = ({ socialConfig, tags }) => (
       <LinkedinShareButton
         url={socialConfig.config.url}
         className="button is-outlined is-rounded linkedin"
-        title={socialConfig.config.title}
+        title={socialConfig.title}
       >
         <span className="icon">
           <FontAwesomeIcon icon={faLinkedinIn} />
@@ -55,7 +55,7 @@ const Share = ({ socialConfig, tags }) => (
       <RedditShareButton
         url={socialConfig.config.url}
         className="button is-outlined is-rounded reddit"
-        title={socialConfig.config.title}
+        title={socialConfig.title}
       >
         <span className="icon">
           <FontAwesomeIcon icon={faRedditAlien} />
@@ -65,7 +65,7 @@ const Share = ({ socialConfig, tags }) => (
       <WhatsappShareButton
         url={socialConfig.config.url}
         className="button is-outlined is-rounded whatsapp"
-        title={socialConfig.config.title}
+        title={socialConfig.title}
       >
         <span className="icon">
           <FontAwesomeIcon icon={faWhatsapp} />
