@@ -9,7 +9,10 @@ const Slider = () => {
   const url = typeof window !== "undefined" ? window.location.pathname : ""
   const slidePosts = useStaticQuery(graphql`
     query {
-      allMarkdownRemark(limit: 4) {
+      allMarkdownRemark(
+        limit: 4
+        sort: { fields: [frontmatter___date], order: DESC }
+      ) {
         totalCount
         edges {
           node {
@@ -19,6 +22,7 @@ const Slider = () => {
 
             frontmatter {
               title
+              date
               categories
 
               image {
