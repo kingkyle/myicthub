@@ -44,7 +44,7 @@ const SinglePost = ({ data }) => {
               title: data.markdownRemark.frontmatter.title,
             },
           }}
-          tags={data.markdownRemark.frontmatter.categories}
+          tags={data.markdownRemark.frontmatter.keywords}
         />
         <div className="post-content">
           <Img
