@@ -5,10 +5,10 @@ date: 2020-02-11 01:00:00
 image: ./raft-survival-simulator.jpg
 featured: false
 keywords:
-  - Pokemon Masters
-  - Pokemon Masters Hack Hacks
-  - Pokemon Masters Hack Cheats
-  - Pokemon Masters Hack Tips
+  - Raft Survival Simulator
+  - Raft Survival Simulator Hacks
+  - Raft Survival Simulator Cheats
+  - Raft Survival Simulator Tips
 categories:
   - Gaming Hacks
   - Gaming
