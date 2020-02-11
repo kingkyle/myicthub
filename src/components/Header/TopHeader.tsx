@@ -6,9 +6,9 @@ const TopHeader = ({ siteTitle, slogan }) => {
     <div className="top-header">
       <div className="search">&nbsp;</div>
       <div className="site-title">
-        <Link to="/">
+        <a href="/">
           <h1 className="font-cursive">{siteTitle}</h1>
-        </Link>
+        </a>
         <p className="font-cursive">{slogan}</p>
       </div>
       <div className="share">&nbsp;</div>
