@@ -4,10 +4,14 @@ import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import Share from "../components/Share/Share"
 import SEO from "../components/seo"
-import { slugify } from "../utils/utilities"
+import { slugify, tagify } from "../utils/utilities"
 import Disqus from "../components/Comments/Disqus"
 
 const SinglePost = ({ data }) => {
+  let tags = []
+  data.markdownRemark.frontmatter.keywords.forEach((tag: string) =>
+    tags.push(tagify(tag))
+  )
   return (
     <MainLayout>
       <SEO
@@ -44,7 +48,7 @@ const SinglePost = ({ data }) => {
               title: data.markdownRemark.frontmatter.title,
             },
           }}
-          tags={data.markdownRemark.frontmatter.keywords}
+          tags={tags}
         />
         <div className="post-content">
           <Img
@@ -60,7 +64,7 @@ const SinglePost = ({ data }) => {
               title: data.markdownRemark.frontmatter.title,
             },
           }}
-          tags={data.markdownRemark.frontmatter.keywords}
+          tags={tags}
         />
         <Disqus
           title={data.markdownRemark.frontmatter.title}

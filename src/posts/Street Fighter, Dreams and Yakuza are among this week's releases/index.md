@@ -2,7 +2,7 @@
 title: "Street Fighter, Dreams and Yakuza are among this week's releases"
 author: "myicthub"
 date: 2020-02-09 12:07:00
-image: ./playstation-5-1.jpg
+image: ./image.jpg
 featured: true
 keywords:
   - Street Fighter

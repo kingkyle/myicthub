@@ -53,4 +53,12 @@ const slugify = (text, separator) => {
   return text
 }
 
-module.exports = { slugify }
+function tagify(input) {
+  var output = input.replace(/(\w+)(?:\s+|$)/g, function(_, word) {
+    // uppercase first letter and add rest unchanged
+    return word.charAt(0).toUpperCase() + word.substr(1)
+  })
+  return output
+}
+
+module.exports = { slugify, tagify }
