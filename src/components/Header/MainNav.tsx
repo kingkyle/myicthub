@@ -10,13 +10,13 @@ const MainNav = () => {
             <a href="/">Home</a>
           </li>
           <li>
-            <Link to="/category/mobile">Mobile</Link>
+            <a href="/category/mobile">Mobile</a>
           </li>
           <li>
-            <Link to="/category/gaming">Gaming</Link>
+            <a href="/category/gaming">Gaming</a>
           </li>
           <li>
-            <Link to="/category/miscellaneous">Miscellaneous</Link>
+            <a href="/category/miscellaneous">Miscellaneous</a>
           </li>
         </ul>
       </nav>
