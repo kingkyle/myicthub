@@ -7,13 +7,16 @@ const MainNav = () => {
       <nav>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <a href="/">Home</a>
           </li>
           <li>
-            <Link to="/about">About Us</Link>
+            <Link to="/category/mobile">Mobile</Link>
           </li>
           <li>
-            <Link to="/contact">Contact</Link>
+            <Link to="/category/gaming">Gaming</Link>
+          </li>
+          <li>
+            <Link to="/category/miscellaneous">Miscellaneous</Link>
           </li>
         </ul>
       </nav>
