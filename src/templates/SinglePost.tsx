@@ -60,7 +60,7 @@ const SinglePost = ({ data }) => {
               title: data.markdownRemark.frontmatter.title,
             },
           }}
-          tags={data.markdownRemark.frontmatter.categories}
+          tags={data.markdownRemark.frontmatter.keywords}
         />
         <Disqus
           title={data.markdownRemark.frontmatter.title}
@@ -82,6 +82,7 @@ export const postQuery = graphql`
       frontmatter {
         title
         categories
+        keywords
         author
         image {
           childImageSharp {

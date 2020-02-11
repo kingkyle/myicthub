@@ -3,7 +3,7 @@ title: "Mario Kart Tour Hacks Cheats Tips Earn Rubies and Coins"
 author: "myicthub"
 date: 2020-02-10 00:00:00
 image: ./mario-kart-tour-hack-cheats.jpg
-featured: true
+featured: false
 keywords:
   - Mario Kart Tour
   - Mario Kart Hacks

@@ -3,7 +3,7 @@ title: "Pokemon Masters Hack Cheats Tips and Tricks"
 author: "myicthub"
 date: 2020-02-10 01:00:00
 image: ./pokemon-masters-hack-cheats.jpg
-featured: true
+featured: false
 keywords:
   - Pokemon Masters
   - Pokemon Masters Hack Hacks
