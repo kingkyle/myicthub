@@ -3,7 +3,7 @@ title: "WhatsApp surpasses 2 billion users worldwide"
 author: "myicthub"
 date: 2020-02-12 00:00:00
 image: ./whatsapp.png
-featured: true
+featured: false
 keywords:
   - Whatsapp
   - Whatsapp 2 billion

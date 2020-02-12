@@ -3,7 +3,7 @@ title: "Warcraft 3 Reforged cheats: check out codes and tricks for PC"
 author: "myicthub"
 date: 2020-02-09 12:07:00
 image: ./warcraft-3-reforged.jpg
-featured: true
+featured: false
 keywords:
   - Warcraft 3
   - Warcraft 3 Reforged cheats

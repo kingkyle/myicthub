@@ -3,7 +3,7 @@ title: "WhatsApp: Bill may require user to provide CPF"
 author: "myicthub"
 date: 2020-02-12 10:00:00
 image: ./whatsapp.png
-featured: true
+featured: false
 keywords:
   - whatsapp
   - whatsapp bill
