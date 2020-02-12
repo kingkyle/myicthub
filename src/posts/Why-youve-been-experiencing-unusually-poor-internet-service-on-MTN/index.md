@@ -2,7 +2,7 @@
 title: "Why you’ve been experiencing unusually poor internet service on MTN"
 author: "myicthub"
 date: 2020-01-03 00:00:00
-image: ./mtn.jpg
+image: ./mtn-.jpg
 featured: true
 keywords:
   - mtn
