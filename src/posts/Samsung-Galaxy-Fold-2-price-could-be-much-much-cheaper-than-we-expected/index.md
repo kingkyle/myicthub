@@ -5,11 +5,11 @@ date: 2020-01-02 00:00:00
 image: ./samsung.jpg
 featured: true
 keywords:
-  - samsung
-  - samsung fold
+  - Samsung
+  - Samsung fold
 categories:
-  - mobile
-  - samsung
+  - Mobile
+  - Samsung
 ---
 
 The original Samsung Galaxy Fold cost $1,980 / £1,900 / AU$2,999, which made it a startlingly pricey handset even if it was the first widely available foldable phone. If you wanted a phone with a bendable display but were put off by the price, you might be in luck, because a new rumor suggests the Samsung Galaxy Fold 2 could cost less than half what its predecessor did.
